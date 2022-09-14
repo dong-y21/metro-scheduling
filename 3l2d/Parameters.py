@@ -1,5 +1,4 @@
 from math import floor
-from cv2 import UMatData_USER_ALLOCATED
 import numpy as np
 from numpy.random import rand, seed
 import random
